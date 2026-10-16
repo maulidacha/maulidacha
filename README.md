@@ -15,7 +15,7 @@ My academic background and project experience have helped me develop analytical 
 
 ### 📂 Featured Projects
 
-**1. Multiclass Text Classification Using Machine Learning**
+**1. Multiclass Text Classification Using Python**
 
 A research project comparing Decision Tree and Random Forest algorithms to classify public X posts related to aespa into four content categories using TF-IDF.
 
